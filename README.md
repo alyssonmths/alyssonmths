@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou programador focado em desenvolvimento web, front e back end. Atualmente, curso o 2° período de Engenharia de Software na Universidade Federal de Pernambuco.</p>
+<p align="left">Sou programador focado em desenvolvimento web, front e back end. Atualmente, curso o 2° período de Engenharia de Software na Universidade de Pernambuco (UPE).</p>
 
 ###
 
