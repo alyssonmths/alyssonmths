@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou programador focado em <strong>desenvolvimento web Full-Stack</strong>. Atualmente, estou cursando o <strong>3º período de Engenharia de Software na Universidade de Pernambuco (UPE)</strong> e atuo como estagiário na <strong>CWI Software</strong>. Busco sempre aprender e aplicar novas tecnologias para construir soluções robustas e eficientes.</p>
+<p align="left">Sou programador focado em <strong>desenvolvimento web Full-Stack</strong>. Atualmente, estou cursando o <strong>5º período de Engenharia de Software na Universidade de Pernambuco (UPE)</strong> e atuo como desenvolvedor júnior na <strong>CWI Software</strong>. Busco sempre aprender e aplicar novas tecnologias para construir soluções robustas e eficientes.</p>
 
 ###
 
